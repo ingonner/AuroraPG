@@ -1,0 +1,49 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.aurora.itspa"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.aurora.itspa"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.aurora.itspa"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.aurora.itspa"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.aurora.itspa"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.aurora.itspa"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.aurora.itspa"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.aurora.itspa"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.aurora.itspa"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.aurora.itspa"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.aurora.itspa"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.aurora.itspa"
+        }
+    }
+}
